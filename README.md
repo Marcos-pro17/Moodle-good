@@ -23,7 +23,9 @@ En la siguiente imagen se vera donde debemos poner los parametros para conseguir
 
 <img src="Contraseña.png" alt="">
 
-## Creación de cursos
+## Gestión de cursos
+
+### Creación de cursos
 
 Primero empezaremos creando el curso A, donde deberemos ponerle tres temas. Que esto se hace desde administración del sitio, en el apartado cursos y categorias o desde Navegación, en el apartado cursos y haciendo clic en añadir curso.
 
@@ -35,9 +37,25 @@ Para el curso B haremos los mismos pasos que con con el pero en el momento de a�
 
 <img src="Curso B.png" alt="">
 
+### Añadir material al curso
 
+Para esto deberemos entrar en los temas previamente creados y hacer lo mismo que para crear los temas. Vamos al apartado de añadir dentro del tema seleccionado y nos saldra un menú
 
+<img src="crear tarea 1.png" alt="">
 
+Y aqui añadimos lo que queramos. 
+
+<img src="Crear tarea 2.png" alt="">
+
+Finalmente deberia verse asi.
+
+<img src="Documentos en Curso.png" alt="">
+
+## usuarios y alumnos
+
+### Creación del primer usuario
+
+Crearemos al alumno Bob. Esto lo podemos hacer en la administriación, en la pesatña usuarios, yendo a cuentas y a añadir usuario.
 
 
 
