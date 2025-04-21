@@ -259,10 +259,10 @@ Accedemos como alumno, respondemos al cuestionario, y luego como profesor vemos 
 
 Administración del curso > Calificaciones
 
-<img src="responder_cuestionario.png" alt="">
-<img src="ver_calificacion_cuestionario.png" alt="">
+<img src="cuestionario funcional.png" alt="">
+<img src="cuestionario funcional 2.png" alt="">
 
----
+
 
 ## Importar y exportar un curso
 
@@ -270,22 +270,15 @@ Administración del curso > Calificaciones
 
 Desde:
 
-**Administración > Copias de seguridad**
+Administración > Copias de seguridad
 
 Seleccionamos qué partes del curso queremos guardar y descargamos el archivo generado `.mbz`.
 
-<img src="exportar_curso.png" alt="">
+<img src="copia de seguiridad.png" alt="">
 
 Ese archivo se lo enviamos a un compañero.
 
-### Importar curso de otro compañero
 
-Vamos a:
-
-**Administración > Restaurar**  
-Subimos el archivo `.mbz` recibido y seguimos los pasos para importar el curso en nuestro Moodle.
-
-<img src="importar_curso_externo.png" alt="">
 
 
 
