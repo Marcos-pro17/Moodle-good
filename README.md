@@ -7,6 +7,13 @@ Para ello entraremos en nuestro icono de perfil y nos saldra un boton llamado "P
 
 <img src="Perfil.png" alt="">
 
+## 2. Idioma 
+
+Ahora haremos el cambio de idioma, para ello deberemos entrar en la administración del sitio webl, ir al apartado idioma y entrar en la pestaña parametros. Una vez alli cambiamos la pestaña donde nos sale idioma. Si no sale deberas instalarlo en el apartado paquetes de idioma.
+
+<img src="Idioma.png" alt="">
+
+
 
 
 
