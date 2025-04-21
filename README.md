@@ -116,6 +116,9 @@ Asignamos a Bob como profesor del curso B entrando a:
 Administración del curso - Usuarios inscritos - Inscribir usuarios  
 Buscamos a Bob y le asignamos el rol de Profesor.
 
+<img src="cambio rol" alt="">
+
+
 <img src="Hacer profesor gg.png" alt="">
 
 Luego cargamos el archivo CSV con los 10 alumnos y los inscribimos manualmente al curso B con el rol de Estudiante.
