@@ -199,7 +199,7 @@ Una vez entregado, se muestra la confirmación de entrega y el botón para modif
 
 ## Contenidos
 
-### Crear una UF con 2 NF y actividades
+### Crear una UF con 2 NF 
 
 Entramos en el curso A y activamos la edición con el botón "Activar edición" (arriba a la derecha).
 
@@ -214,64 +214,30 @@ Para crear una UF (Unidad Formativa):
 
 <img src="Uf y dos Nf.png" alt="">
 
-Dentro de la UF añadimos varios tipos de actividades:
-
-- Actividad magistral: por ejemplo, una página o archivo PDF con teoría.
-- Actividad evaluable: al menos una entrega de tarea y un cuestionario.
-
-<img src="actividades_UF.png" alt="">
-
----
-
-### Clonar el curso A al curso B
-
-Desde el **curso B**, vamos a:
-
-**Administración del curso > Importar**
-
-Seleccionamos el **curso A** como origen y seguimos los pasos para importar todo su contenido.
-
-<img src="importar_curso.png" alt="">
-
-Al finalizar, el curso B tendrá los mismos contenidos y estructura que el curso A.
-
----
-
 ## Calificación
 
 ### Completar tareas y calificar
 
 Entramos con un alumno, accedemos al curso A y completamos todas las actividades evaluables (entrega de tarea y cuestionario).
 
-<img src="alumno_completa_tareas.png" alt="">
-
 Después, entramos como profesor y calificamos las tareas desde el libro de calificaciones o directamente en cada actividad.
-
-<img src="profesor_califica.png" alt="">
 
 Luego configuramos el calificador para que calcule automáticamente la nota de la UF:
 
-**Administración del curso > Calificaciones > Configuración del libro de calificaciones**
-
-Creamos una categoría para la UF, agrupamos dentro las actividades y ajustamos el método de cálculo.
-
-<img src="configurar_calificador.png" alt="">
-
----
+<img src="Calificación correcta de tarea.png" alt="">
 
 ### Crear y otorgar una insignia
 
 Vamos a:
 
-**Administración del sitio > Insignias > Añadir nueva insignia**
+Administración del sitio - Insignias - Añadir nueva insignia
 
 Configuramos los criterios (por ejemplo, completar la UF o recibir una nota mínima).
 
 Una vez creada, la otorgamos al alumno que ha completado todas las actividades.
 
-<img src="crear_insignia.png" alt="">
+<img src="Insignias.png" alt="">
 
----
 
 ## Cuestionarios
 
@@ -279,19 +245,19 @@ Una vez creada, la otorgamos al alumno que ha completado todas las actividades.
 
 Primero entramos en:
 
-**Administración del curso > Banco de preguntas**
+Administración del curso - Banco de preguntas
 
-Creamos varias **categorías** (por ejemplo: Teoría, Práctica) y dentro añadimos preguntas de tipo opción múltiple, verdadero/falso, respuesta corta, etc.
+Creamos varias categorías (por ejemplo: Teoría, Práctica) y dentro añadimos preguntas de tipo opción múltiple, verdadero/falso, respuesta corta, etc.
 
-<img src="banco_preguntas.png" alt="">
+<img src="Banco de preguntas.png" alt="">
 
-Luego creamos un **cuestionario** desde “Añadir actividad o recurso” y seleccionamos las preguntas desde el banco.
+Luego creamos un cuestionario desde “Añadir actividad o recurso” y seleccionamos las preguntas desde el banco.
 
-<img src="cuestionario_con_preguntas.png" alt="">
+<img src="Banco de preguntas segunda catg.png" alt="">
 
 Accedemos como alumno, respondemos al cuestionario, y luego como profesor vemos los resultados desde:
 
-**Administración del curso > Calificaciones**
+Administración del curso > Calificaciones
 
 <img src="responder_cuestionario.png" alt="">
 <img src="ver_calificacion_cuestionario.png" alt="">
