@@ -57,8 +57,18 @@ Finalmente deberia verse asi.
 
 Crearemos al alumno Bob. Esto lo podemos hacer en la administriación, en la pesatña usuarios, yendo a cuentas y a añadir usuario.
 
+Desde alli nos saldra una serie de pasos que completar con la inforamción, contraseña y mas cosas para añadir al usuario. 
 
+Cuando este añadido debera de quedar asi.
 
+<img src="Creación primer usuario.png" alt="">
 
+### Creación 10 alumnos (CSV)
 
+Para crear 10 alumnos de manera inmediata, deberemos hacerlo desde un archivo CSV. 
+Esto se indica de la siguiente manera, cogemos el archivo, ponemos que estructura queremos y completamos la estructura con los alumnos que queramos añadir.
+
+Nuestra estructura sera nombre de usuario, primero nombre, apellido, correo electronico y contraseña
+
+Seguidamente cargamos el archivo, yendo a administración - Usuarios - Cuentas - Añadir usuarios. Cargamos nuestro archivo y quedara así 
 
