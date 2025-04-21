@@ -70,5 +70,11 @@ Esto se indica de la siguiente manera, cogemos el archivo, ponemos que estructur
 
 Nuestra estructura sera nombre de usuario, primero nombre, apellido, correo electronico y contraseña
 
-Seguidamente cargamos el archivo, yendo a administración - Usuarios - Cuentas - Añadir usuarios. Cargamos nuestro archivo y quedara así 
+Seguidamente cargamos el archivo, yendo a administración - Usuarios - Cuentas - Añadir usuarios. Cargamos nuestro archivo y quedara así.
+
+<img src="10 usuarios creados.png" alt="">
+
+### Borrar un usuario
+
+Esta tarea es bastante sencilla, pero iremos paso a paso.
 
