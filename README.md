@@ -120,11 +120,15 @@ Buscamos a Bob y le asignamos el rol de Profesor.
 
 Luego cargamos el archivo CSV con los 10 alumnos y los inscribimos manualmente al curso B con el rol de Estudiante.
 
-<img src="csv_inscripcion.png" alt="">
+<img src="Matriculacion 1.png" alt="">
 
-#### c) Comprobación del acceso
+Y despues de este paso selecionamos a los alumnos que queremos añdir y hacemos clic en "Añadir"
 
-Entramos como visitante y comprobamos que el **curso A** se puede visualizar sin iniciar sesión.
+<img src="Matriculacion 2.png" alt="">
+
+#### Comprobación del acceso
+
+Entramos como visitante y comprobamos que el curso A se puede visualizar sin iniciar sesión.
 
 <img src="cursoA_acceso_publico.png" alt="">
 
