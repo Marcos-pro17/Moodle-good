@@ -2,20 +2,20 @@
 
 ## Ajustes generales
 
-### 1. Iniciar sesión  .
+###  Iniciar sesión  .
 
 Primero de todo iniciaremos sesión en el moodle con nuestro usuario y contraseña. Los primeros pasos seran cambiar nuestra foto de perfil, nuestro correo y nuestra contraseña.
 Para ello entraremos en nuestro icono de perfil y nos saldra un boton llamado "Perfil" ahi podremos editar nuestras cosas a nuestro gusto. Debera de quedar asi:
 
 <img src="Perfil.png" alt="">
 
-### 2. Idioma 
+###  Idioma 
 
 Ahora haremos el cambio de idioma, para ello deberemos entrar en la administración del sitio webl, ir al apartado idioma y entrar en la pestaña parametros. Una vez alli cambiamos la pestaña donde nos sale idioma. Si no sale deberas instalarlo en el apartado paquetes de idioma.
 
 <img src="Idioma.png" alt="">
 
-### 3. Contraseñas 
+###  Contraseñas 
 
 Para el tercer paso deberemos cambiar la contraseña de nuestro portal. Añadiendo que como minimo tenga 4 letras, que haya una mayuscula y algun numero. Esto se hace desde administración, vamos al apartado de seguiridad y a las normativas del sitio.
 
@@ -95,7 +95,7 @@ Finalmente, saldra una confirmación de si estamos seguros de ejecutar la acció
 
 ## Matriculación y configuración de cursos
 
-### 5. Matrícula y permisos en cursos
+###  Matrícula y permisos en cursos
 
 #### Configuración de métodos de inscripción
 
@@ -139,7 +139,7 @@ Después, intentamos entrar al curso B sin iniciar sesión y Moodle nos pedirá 
 
 <img src="Auto matricula" alt="">
 
-### 6. Apariencia del sitio
+###  Apariencia del sitio
 
 Entramos a:  
 Administración del sitio - Plugins - Instalar complemento 
@@ -153,7 +153,7 @@ Y seleccionamos el nuevo tema.
 
 <img src="Temas.png" alt="">
 
-### 7. Asignar profesor y alumnos al curso A
+###  Asignar profesor y alumnos al curso A
 
 Asignamos un nuevo profesor al curso A repitiendo el proceso de inscripción manual desde:  
 Administración del curso - Usuarios inscritos - Inscribir usuarios
@@ -165,7 +165,7 @@ Luego añadimos manualmente a los alumnos (pueden ser los mismos del CSV o nuevo
 <img src="Matriculacion 2.png" alt="">
 
 
-### 8. Añadir contenido desde el rol de profesor
+###  Añadir contenido desde el rol de profesor
 
 Iniciamos sesión como el profesor asignado al curso A y activamos la edición.  
 Agregamos actividades desde los temas ya creados.
@@ -188,7 +188,7 @@ Finalmente el resultado es el siguiente
 
 <img src="Crear tarea 4.png" alt="">
 
-### 9. Entregar tarea como alumno
+###  Entregar tarea como alumno
 
 Entramos con un alumno registrado, accedemos al curso A y seleccionamos la tarea creada.  
 Subimos un archivo PDF desde el botón "Agregar entrega".
