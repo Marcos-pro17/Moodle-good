@@ -180,20 +180,146 @@ Creamos una Tarea que permita subir un archivo PDF con una fecha de entrega abie
 
 <img src="Crear tarea 2.png" alt="">
 
-Seguidamente seguimos los pasos que nos piden de añadir un nombre y diferentes cosas.
+Seguidamente seguimos los pasos que nos piden y guardamos los cambios
 
+<img src="Crear tarea 3.png" alt="">
+
+Finalmente el resultado es el siguiente
+
+<img src="Crear tarea 4.png" alt="">
 
 ### 9. Entregar tarea como alumno
 
 Entramos con un alumno registrado, accedemos al curso A y seleccionamos la tarea creada.  
 Subimos un archivo PDF desde el botón "Agregar entrega".
 
-<img src="alumno_entregar_tarea.png" alt="">
-
 Una vez entregado, se muestra la confirmación de entrega y el botón para modificar si es necesario.
 
-<img src="tarea_entregada.png" alt="">
+<img src="confirmar si se puede entregar.png" alt="">
 
+## Contenidos
+
+### Crear una UF con 2 NF y actividades
+
+Entramos en el curso A y activamos la edición con el botón "Activar edición" (arriba a la derecha).
+
+Cambiamos el formato del curso a "Temas" desde:  
+Administración del curso > Editar ajustes > Formato del curso
+
+Para crear una UF (Unidad Formativa):
+
+- Añadimos una etiqueta con el nombre de la UF.
+- Añadimos dos temas como NF debajo.
+- Arrastramos los elementos hacia la derecha para jerarquizarlos visualmente dentro de la UF.
+
+<img src="Uf y dos Nf.png" alt="">
+
+Dentro de la UF añadimos varios tipos de actividades:
+
+- Actividad magistral: por ejemplo, una página o archivo PDF con teoría.
+- Actividad evaluable: al menos una entrega de tarea y un cuestionario.
+
+<img src="actividades_UF.png" alt="">
+
+---
+
+### Clonar el curso A al curso B
+
+Desde el **curso B**, vamos a:
+
+**Administración del curso > Importar**
+
+Seleccionamos el **curso A** como origen y seguimos los pasos para importar todo su contenido.
+
+<img src="importar_curso.png" alt="">
+
+Al finalizar, el curso B tendrá los mismos contenidos y estructura que el curso A.
+
+---
+
+## Calificación
+
+### Completar tareas y calificar
+
+Entramos con un alumno, accedemos al curso A y completamos todas las actividades evaluables (entrega de tarea y cuestionario).
+
+<img src="alumno_completa_tareas.png" alt="">
+
+Después, entramos como profesor y calificamos las tareas desde el libro de calificaciones o directamente en cada actividad.
+
+<img src="profesor_califica.png" alt="">
+
+Luego configuramos el calificador para que calcule automáticamente la nota de la UF:
+
+**Administración del curso > Calificaciones > Configuración del libro de calificaciones**
+
+Creamos una categoría para la UF, agrupamos dentro las actividades y ajustamos el método de cálculo.
+
+<img src="configurar_calificador.png" alt="">
+
+---
+
+### Crear y otorgar una insignia
+
+Vamos a:
+
+**Administración del sitio > Insignias > Añadir nueva insignia**
+
+Configuramos los criterios (por ejemplo, completar la UF o recibir una nota mínima).
+
+Una vez creada, la otorgamos al alumno que ha completado todas las actividades.
+
+<img src="crear_insignia.png" alt="">
+
+---
+
+## Cuestionarios
+
+### Crear banco de preguntas y cuestionario
+
+Primero entramos en:
+
+**Administración del curso > Banco de preguntas**
+
+Creamos varias **categorías** (por ejemplo: Teoría, Práctica) y dentro añadimos preguntas de tipo opción múltiple, verdadero/falso, respuesta corta, etc.
+
+<img src="banco_preguntas.png" alt="">
+
+Luego creamos un **cuestionario** desde “Añadir actividad o recurso” y seleccionamos las preguntas desde el banco.
+
+<img src="cuestionario_con_preguntas.png" alt="">
+
+Accedemos como alumno, respondemos al cuestionario, y luego como profesor vemos los resultados desde:
+
+**Administración del curso > Calificaciones**
+
+<img src="responder_cuestionario.png" alt="">
+<img src="ver_calificacion_cuestionario.png" alt="">
+
+---
+
+## Importar y exportar un curso
+
+### Exportar (copia de seguridad)
+
+Desde:
+
+**Administración > Copias de seguridad**
+
+Seleccionamos qué partes del curso queremos guardar y descargamos el archivo generado `.mbz`.
+
+<img src="exportar_curso.png" alt="">
+
+Ese archivo se lo enviamos a un compañero.
+
+### Importar curso de otro compañero
+
+Vamos a:
+
+**Administración > Restaurar**  
+Subimos el archivo `.mbz` recibido y seguimos los pasos para importar el curso en nuestro Moodle.
+
+<img src="importar_curso_externo.png" alt="">
 
 
 
