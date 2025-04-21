@@ -23,9 +23,17 @@ En la siguiente imagen se vera donde debemos poner los parametros para conseguir
 
 <img src="Contraseña.png" alt="">
 
-## Creaación de cursos
+## Creación de cursos
 
 Primero empezaremos creando el curso A, donde deberemos ponerle tres temas. Que esto se hace desde administración del sitio, en el apartado cursos y categorias o desde Navegación, en el apartado cursos y haciendo clic en añadir curso.
+
+Después de haberlo creado, para añadir los temas dentro de curso nos saldra una pestaña donde pondra añadir temario o tareas. desde ahi añadimos los temas que necesitemos (en este caso 3) y deberia quedar asi.
+
+<img src="Curso A.png" alt=""> 
+
+Para el curso B haremos los mismos pasos que con con el pero en el momento de añadir temas en vez de 3 añadiremos 5. 
+
+<img src="Curso B.png" alt="">
 
 
 
