@@ -131,69 +131,57 @@ Y despues de este paso selecionamos a los alumnos que queremos añdir y hacemos 
 
 #### Comprobación del acceso
 
-Entramos como visitante y comprobamos que el curso A se puede visualizar sin iniciar sesión.
+Entramos como visitante y comprobamos que el curso A se puede visualizar sin iniciar sesión. Como hemos visto anteriormente pero desdel punto de vista de un alumno.
 
-<img src="cursoA_acceso_publico.png" alt="">
+<img src="Curso A desbloqueada.png" alt="">
 
-Después, intentamos entrar al **curso B** sin iniciar sesión y Moodle nos pedirá autenticación.
+Después, intentamos entrar al curso B sin iniciar sesión y Moodle nos pedirá autenticación.
 
-<img src="cursoB_necesita_login.png" alt="">
-
----
+<img src="Auto matricula" alt="">
 
 ### 6. Apariencia del sitio
 
 Entramos a:  
-**Administración del sitio > Plugins > Instalar complemento**  
+Administración del sitio - Plugins - Instalar complemento 
 Subimos el archivo `.zip` del nuevo tema descargado desde el sitio oficial de Moodle.
 
-<img src="instalar_tema.png" alt="">
-
 Una vez instalado, vamos a:  
-**Administración del sitio > Apariencia > Temas > Selector de temas**  
+Administración del sitio - Apariencia - Temas - Selector de temas  
 Y seleccionamos el nuevo tema.
 
-<img src="selector_tema.png" alt="">
+(En este paso mi moodle no podia cargar los temas, por ello la imagen solo muestra como hacerlo y no el resultado final.)
 
-Después vamos a:  
-**Administración del sitio > Apariencia > Temas > Configuración del tema seleccionado**  
-Cambiamos la cabecera y el pie de página a nuestro gusto.
-
-<img src="personalizacion_tema.png" alt="">
-
-Podemos hacer clic en *"Cambiar rol"* para previsualizar el sitio como alumno o profesor.
-
----
+<img src="Temas.png" alt="">
 
 ### 7. Asignar profesor y alumnos al curso A
 
-Asignamos un nuevo profesor al **curso A** repitiendo el proceso de inscripción manual desde:  
-**Administración del curso > Usuarios inscritos > Inscribir usuarios**
+Asignamos un nuevo profesor al curso A repitiendo el proceso de inscripción manual desde:  
+Administración del curso - Usuarios inscritos - Inscribir usuarios
 
-<img src="cursoA_profesor.png" alt="">
+<img src="Hacer profesor gg.png" alt="">
 
 Luego añadimos manualmente a los alumnos (pueden ser los mismos del CSV o nuevos).
 
-<img src="cursoA_alumnos.png" alt="">
+<img src="Matriculacion 2.png" alt="">
 
----
 
 ### 8. Añadir contenido desde el rol de profesor
 
 Iniciamos sesión como el profesor asignado al curso A y activamos la edición.  
 Agregamos actividades desde los temas ya creados.
 
-<img src="cursoA_añadir_actividad.png" alt="">
+<img src="crear tarea 1.png" alt="">
 
-Creamos una **Tarea** que permita subir un archivo PDF con una fecha de entrega abierta:
+Creamos una Tarea que permita subir un archivo PDF con una fecha de entrega abierta:
 
 - Tipo de entrega: Subida de archivos
 - Formato permitido: PDF
 - Fecha de entrega: configurada manualmente
 
-<img src="crear_tarea_pdf.png" alt="">
+<img src="Crear tarea 2.png" alt="">
 
----
+Seguidamente seguimos los pasos que nos piden de añadir un nombre y diferentes cosas.
+
 
 ### 9. Entregar tarea como alumno
 
