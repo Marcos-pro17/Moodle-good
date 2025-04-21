@@ -78,3 +78,142 @@ Seguidamente cargamos el archivo, yendo a administración - Usuarios - Cuentas -
 
 Esta tarea es bastante sencilla, pero iremos paso a paso.
 
+Entraremos en la sección de usuarios desde la administración del sitio. Donde nos saldran los 10 usuarios. Seleccionamos el usuario que queremos borrar.
+
+
+<img src="Borrar usuario 1 .png" alt="">
+
+Seguidamente haremos clic en los tres puntos que salen al final del nombre del usuario seleccionado y nos saldra un recuadro con la opción de borrar. Hacemos clic en "Borrar".
+
+<img src="Borrar usuario 2 .png" alt="">
+
+
+Finalmente, saldra una confirmación de si estamos seguros de ejecutar la acción. Confirmamos y el usuario sera borrado.
+
+
+<img src="Borrar usuario 3 .png" alt="">
+
+## Matriculación y configuración de cursos
+
+### 5. Matrícula y permisos en cursos
+
+#### Configuración de métodos de inscripción
+
+Para el curso A, desactivamos todas las inscripciones para que el acceso sea libre como visitante. Esto lo hacemos entrando a:
+
+Administración del curso > Usuarios > Métodos de inscripción  
+Desactivamos todos los métodos excepto Acceso como invitado y activamos la opción de entrada sin contraseña.
+
+<img src="Curso A desbloqueada.png" alt="">
+
+Para el curso B, habilitamos solo la inscripción manual. Así, solo nosotros como administradores podremos inscribir usuarios.
+
+<img src="Curso B bloqueado" alt="">
+
+#### Asignar roles
+
+Asignamos a Bob como profesor del curso B entrando a:  
+Administración del curso - Usuarios inscritos - Inscribir usuarios  
+Buscamos a Bob y le asignamos el rol de Profesor.
+
+<img src="Hacer profesor gg.png" alt="">
+
+Luego cargamos el archivo CSV con los 10 alumnos y los inscribimos manualmente al curso B con el rol de Estudiante.
+
+<img src="csv_inscripcion.png" alt="">
+
+#### c) Comprobación del acceso
+
+Entramos como visitante y comprobamos que el **curso A** se puede visualizar sin iniciar sesión.
+
+<img src="cursoA_acceso_publico.png" alt="">
+
+Después, intentamos entrar al **curso B** sin iniciar sesión y Moodle nos pedirá autenticación.
+
+<img src="cursoB_necesita_login.png" alt="">
+
+---
+
+### 6. Apariencia del sitio
+
+Entramos a:  
+**Administración del sitio > Plugins > Instalar complemento**  
+Subimos el archivo `.zip` del nuevo tema descargado desde el sitio oficial de Moodle.
+
+<img src="instalar_tema.png" alt="">
+
+Una vez instalado, vamos a:  
+**Administración del sitio > Apariencia > Temas > Selector de temas**  
+Y seleccionamos el nuevo tema.
+
+<img src="selector_tema.png" alt="">
+
+Después vamos a:  
+**Administración del sitio > Apariencia > Temas > Configuración del tema seleccionado**  
+Cambiamos la cabecera y el pie de página a nuestro gusto.
+
+<img src="personalizacion_tema.png" alt="">
+
+Podemos hacer clic en *"Cambiar rol"* para previsualizar el sitio como alumno o profesor.
+
+---
+
+### 7. Asignar profesor y alumnos al curso A
+
+Asignamos un nuevo profesor al **curso A** repitiendo el proceso de inscripción manual desde:  
+**Administración del curso > Usuarios inscritos > Inscribir usuarios**
+
+<img src="cursoA_profesor.png" alt="">
+
+Luego añadimos manualmente a los alumnos (pueden ser los mismos del CSV o nuevos).
+
+<img src="cursoA_alumnos.png" alt="">
+
+---
+
+### 8. Añadir contenido desde el rol de profesor
+
+Iniciamos sesión como el profesor asignado al curso A y activamos la edición.  
+Agregamos actividades desde los temas ya creados.
+
+<img src="cursoA_añadir_actividad.png" alt="">
+
+Creamos una **Tarea** que permita subir un archivo PDF con una fecha de entrega abierta:
+
+- Tipo de entrega: Subida de archivos
+- Formato permitido: PDF
+- Fecha de entrega: configurada manualmente
+
+<img src="crear_tarea_pdf.png" alt="">
+
+---
+
+### 9. Entregar tarea como alumno
+
+Entramos con un alumno registrado, accedemos al curso A y seleccionamos la tarea creada.  
+Subimos un archivo PDF desde el botón "Agregar entrega".
+
+<img src="alumno_entregar_tarea.png" alt="">
+
+Una vez entregado, se muestra la confirmación de entrega y el botón para modificar si es necesario.
+
+<img src="tarea_entregada.png" alt="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
