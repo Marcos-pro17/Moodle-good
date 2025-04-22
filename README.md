@@ -274,7 +274,7 @@ Administración > Copias de seguridad
 
 Seleccionamos qué partes del curso queremos guardar y descargamos el archivo generado `.mbz`.
 
-<img src="copia de seguiridad.png" alt="">
+<img src="copia de seguridad.png" alt="">
 
 Ese archivo se lo enviamos a un compañero.
 
