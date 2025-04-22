@@ -270,7 +270,7 @@ Administración del curso > Calificaciones
 
 Desde:
 
-Administración > Copias de seguridad
+Administración - Copias de seguridad
 
 Seleccionamos qué partes del curso queremos guardar y descargamos el archivo generado `.mbz`.
 
